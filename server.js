@@ -1,5 +1,5 @@
 var host = "127.0.0.1";
-var port = 1337;
+var port = process.env.PORT || 1337;
 var express = require("express");
 
 var app = express();
