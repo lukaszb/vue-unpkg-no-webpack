@@ -1,0 +1,30 @@
+{
+  "name": "vue-no-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszb/vue-unpkg-no-webpack.git"
+  },
+  "keywords": [
+    "vue",
+    "js",
+    "unpkg",
+    "webpack"
+  ],
+  "author": "Lukasz Balcerzak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukaszb/vue-unpkg-no-webpack/issues"
+  },
+  "homepage": "https://github.com/lukaszb/vue-unpkg-no-webpack#readme"
+}
